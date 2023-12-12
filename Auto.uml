@@ -1,0 +1,66 @@
+﻿[Files]
+File0=C:\Users\Felix\Downloads\Auto\Auto.java
+File1=C:\Users\Felix\Downloads\Auto\Fahrzeugpool.java
+File2=C:\Users\Felix\Downloads\Auto\LKW.java
+File3=C:\Users\Felix\Downloads\Auto\PKW.java
+
+[Box:  - Auto]
+X=36
+Y=5
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=1
+FontSize=12
+FontName=Segoe UI
+
+[Box:  - Fahrzeugpool]
+X=629
+Y=58
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=1
+FontSize=12
+FontName=Segoe UI
+
+[Box:  - LKW]
+X=879
+Y=75
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=1
+FontSize=12
+FontName=Segoe UI
+
+[Box:  - PKW]
+X=83
+Y=325
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=1
+FontSize=12
+FontName=Segoe UI
+
+[Diagram]
+comments=0
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=1
+ShowConnections=0
+Fontname=Segoe UI
+Fontsize=12
+ShowObjectDiagram=0
+
+[Connections]
+V0=LKW#Auto#Inheritends####0#0#0###0#0
+V1=PKW#Auto#Inheritends####0#0#0###0#0
+
+[Interactive]
+I0=
+
